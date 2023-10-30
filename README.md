@@ -7,7 +7,7 @@
   - A call to action section for mobile apps
   - And a big footer section with many site and social links
 
-# Tech Stack
+## Tech Stack
    - Next.js
    - Typescript
    - Tailwind CSS
